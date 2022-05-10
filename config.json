@@ -1,0 +1,9 @@
+{
+	"ip":"Survbers.aternos.me",
+	"port": "53751",
+	"name": "Udin",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
